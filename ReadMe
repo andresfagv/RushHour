@@ -1,0 +1,13 @@
+## Descripción
+Este proyecto implementa una solución para el juego Rush Hour.
+
+## Explicación
+El juego se desarrolla en un tablero de 6x6, donde los coches están posicionados estratégicamente. El objetivo es moverlos de manera adecuada para liberar el camino del coche rojo y sacarlo del tablero.
+
+## Tecnologías
+- Python
+
+## Objetivo
+Utilizar grafos para que el programa encuentre una solución óptima para resolver el juego.
+
+##En Proceso
